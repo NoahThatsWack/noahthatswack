@@ -1,4 +1,4 @@
-## Welcome to my GitHub profile, you filthy animals! 
+## Welcome to my GitHub profile, you filthy nerds! 
 
 My name is Noah and I am a multi-disciplinary developer with a passion for creating beautiful 
 and functional web and game experiences that will make you say "damn, that's impressive" 🔥.
