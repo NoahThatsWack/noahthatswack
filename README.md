@@ -1,11 +1,10 @@
-## Welcome to my GitHub profile, you filthy nerds! 
+## Welcome to my GitHub, you filthy nerds! 
 
 My name is Noah and I am a multi-disciplinary developer with a passion for creating beautiful 
-and functional web and game experiences that will make you say "damn, that's impressive" 🔥.
+and functional web and game experiences.
 
 As a web developer, I specialize in building responsive and user-friendly websites 
-using technologies such as HTML, CSS, JavaScript, and various web frameworks. Basically, I'm a coding wizard who 
-can make your website look like literal gold.
+using technologies such as HTML, CSS, JavaScript, and various web frameworks.
 
 Oh, and my favorite color is `#0077FF` lol
 
@@ -19,7 +18,7 @@ You know you wanna see my portfolio, don't even try to deny it, you horny little
 ---
 
 Lastly, I am a game developer, I have experience in game development and have built games using Unity and Unreal Engine. 
-Let's just say, I am  a jack of all trades 😉.
+Let's just say, I am a jack of all trades 😉.
 
 ---
 
