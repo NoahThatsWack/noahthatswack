@@ -7,7 +7,7 @@ As a web developer, I specialize in building responsive and user-friendly websit
 using technologies such as HTML, CSS, JavaScript, and various web frameworks. Basically, I'm a coding wizard who 
 can make your website look like literal gold.
 
-Oh, and my favorite color is `#0077ff` lol
+Oh, and my favorite color is `#0077FF` lol
 
 ---
 
@@ -38,8 +38,6 @@ Here's what I'm currently working on:
 
 ---
 
-Thank you for visiting my profile!
-
-Noah
+Thank you for visiting my github!
 
 ![BigHeadGIF](https://user-images.githubusercontent.com/48492587/214170665-e1c8aefd-7cc3-425e-9942-aa9017215d76.gif)
