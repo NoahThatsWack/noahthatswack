@@ -5,7 +5,7 @@ and functional web and game experiences that will make you say "damn, that's imp
 
 As a web developer, I specialize in building responsive and user-friendly websites 
 using technologies such as HTML, CSS, JavaScript, and various web frameworks. Basically, I'm a coding wizard who 
-can make your website look like a million bucks 💸.
+can make your website look like literal gold.
 
 Oh, and my favorite color is `#0077ff` lol
 
