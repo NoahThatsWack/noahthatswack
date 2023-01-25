@@ -27,11 +27,11 @@ Feel free to take a look around and let me know if you have any questions or wan
 
 Here's what I'm currently working on:
 
-👨‍💻 [DecentriTech](www.decentritech.com) - My tech company.
+👨‍💻 [DecentriTech](https://www.decentritech.com) - My tech company.
 
-🎮 [DecentriTech Studios](studio.decentritech.com) - My game dev studio.
+🎮 [DecentriTech Studios](https://studio.decentritech.com) - My game dev studio.
 
-🛸 [Project Proven Extraordiary](www.provenextraordinary.com) - A wiki for extraordinary phenomena (unidentifed aerial phenomena, and more).
+🛸 [Project Proven Extraordiary](https://www.provenextraordinary.com) - A wiki for extraordinary phenomena (unidentifed aerial phenomena, and more).
 
 🕹️ A Video Game: TBA - A game in development by Decentritech Studios, more info coming soon.
 
