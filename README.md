@@ -13,12 +13,11 @@ Oh, and my favorite color is `#0077FF` lol
 In addition to my web development skills, I am also a skilled graphic designer 
 and have experience in creating visually stunning designs for websites, social media, and marketing materials. 
 
-You know you wanna see my portfolio, don't even try to deny it, you horny little toad 🐸.
+You know you wanna see my portfolio, don't even try to deny it.
 
 ---
 
 Lastly, I am a game developer, I have experience in game development and have built games using Unity and Unreal Engine. 
-Let's just say, I am a jack of all trades 😉.
 
 ---
 
