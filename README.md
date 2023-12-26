@@ -1,6 +1,6 @@
 Here's what I'm currently working on:
 
-🕹️ A Video Game: TBA - A game in development by Decentritech Studios, more info coming soon.
+🕹️ A Video Game: TBA - A game in development, more info coming soon.
 
 ---
 
