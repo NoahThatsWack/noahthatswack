@@ -1,4 +1,4 @@
-![Hits](https://hits.sh/NoahThatsWack/noahthatswack.svg)
+![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/NoahThatsWack/README.md)
 
 Here's what I'm currently working on:
 
