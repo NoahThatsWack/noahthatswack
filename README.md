@@ -1,4 +1,5 @@
-![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/NoahThatsWack/README.md)
+[![Visitor Count](https://shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=value&url=https://api.countapi.xyz/hit/NoahThatsWack/README.md)](https://hits.sh/NoahThatsWack/NoahThatsWack.svg
+)
 
 Here's what I'm currently working on:
 
