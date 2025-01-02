@@ -1,3 +1,5 @@
+![Hits](https://hits.sh/NoahThatsWack/noahthatswack.svg)
+
 Here's what I'm currently working on:
 
 🕹️ A Video Game: TBA - A game in development, more info coming soon.
